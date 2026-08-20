@@ -98,7 +98,7 @@ Code and preprocessing instructions are maintained at <https://github.com/blacks
 
 ## Contact
 
-Questions about the release can be sent to `blacksnail789521.cs10@nycu.edu.tw`.
+If you have any questions or suggestions, please reach out to Ching Chang at blacksnail789521@gmail.com, or raise them in the 'Issues' section.
 
 ## License
 
